@@ -136,12 +136,14 @@ figure{
     margin-top: 100px;
 }
 /*----------------- portfólio -----------------*/
-.sitepessoal{
-    font-size: 20px;
-    background-color: rgba(131, 141, 151, 0.411);
-    border: solid 5px rgb(13, 112, 107);
+.links-portfolio{
+    float: left; 
     padding: 10px;
-    padding-bottom: 30px;
-    margin: 20px;
-    margin-right: 820px;
+    border: rgb(13, 112, 107) 3px solid; 
+    width: 350px; 
+    height: 350px;
+    margin: 10px;
 }
+
+
+
