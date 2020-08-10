@@ -140,6 +140,7 @@ figure{
     float: left; 
     padding: 10px;
     border: rgb(13, 112, 107) 3px solid; 
+    background-color: rgba(128, 128, 128, 0.295);
     width: 350px; 
     height: 350px;
     margin: 10px;
